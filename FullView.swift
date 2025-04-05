@@ -4,8 +4,6 @@ import Foundation
 import AppKit
 import ProExtensionHost
 import SwiftUI
-import UniformTypeIdentifiers // Required for UTType
-import SRTParser // <--- IMPORT THE LIBRARY
 
 // MARK: - Download Delegate
 class DownloadDelegate: NSObject, URLSessionDownloadDelegate {
