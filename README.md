@@ -1,2 +1,2 @@
 # Sublord
-Final cut pro subtitle extention
+Working on Final cut pro subtitle  realsed soon
